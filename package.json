@@ -1,0 +1,12 @@
+{
+  "name": "route-management",
+  "version": "1.0.0",
+  "description": "Route management module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": ["route", "management"],
+  "author": "Eduardo André de Lima Carneiro (eandre.carneiro@gmail.com)",
+  "license": "ISC"
+}
